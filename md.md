@@ -1,3 +1,6 @@
 - [markdown](http://paulradzkov.com/2014/markdown_cheatsheet/)
 - [ht md](https://hexletguides.github.io/markdown/)
 - [ht md2](http://help.hexlet.io/article/10-markdown)
+- http://isizov.ru/kak-dobavit-domen-k-github-pages/
+- https://info.nic.ua/blog/github-pages-website/
+- http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/
